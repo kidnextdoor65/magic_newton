@@ -1,4 +1,4 @@
-# Developed KidNextDoor
+# Developed by KidNextDoor
 
 ## t.me/kidnextdoor65
 
