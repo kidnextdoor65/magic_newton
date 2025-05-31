@@ -1,8 +1,11 @@
 # Developed KidNextDoor
+
 ## t.me/kidnextdoor65
+
+### Chức năng
+**Roll dice mỗi 24h**
+
 ### Hướng Dẫn Sử Dụng
-
-
 1. **Cách lấy token:**
      * Mở Developer Tools (F12) -> tab "Application" (Chrome) hoặc "Storage" (Firefox) -> Cookies -> `https://www.magicnewton.com`.
      * Sao chép giá trị đầy đủ của `__Secure-next-auth.session-token`,   `__Host-next-auth.csrf-token`.
