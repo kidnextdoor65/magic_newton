@@ -1,6 +1,4 @@
-
-
-# Script được phát triển bởi KidNextDoor
+# Developed KidNextDoor
 ## t.me/kidnextdoor65
 ### Hướng Dẫn Sử Dụng
 
