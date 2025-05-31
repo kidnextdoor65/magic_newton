@@ -1,8 +1,8 @@
 
 
 # Script được phát triển bởi KidNextDoor
-
-## Hướng Dẫn Sử Dụng
+## t.me/kidnextdoor65
+### Hướng Dẫn Sử Dụng
 
 
 1. **Cách lấy token:**
